@@ -5,7 +5,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 
 Requirements
 ------------
-make and a brian
+some C compiler (gcc) and a brian (I don't have one)
 
 Installation
 ------------
